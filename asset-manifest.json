@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/arenga-portfolio-reactjs/static/css/main.fa7d76ae.css",
-    "main.js": "/arenga-portfolio-reactjs/static/js/main.f03db1c7.js",
-    "static/js/787.512dd3f2.chunk.js": "/arenga-portfolio-reactjs/static/js/787.512dd3f2.chunk.js",
-    "index.html": "/arenga-portfolio-reactjs/index.html",
-    "main.fa7d76ae.css.map": "/arenga-portfolio-reactjs/static/css/main.fa7d76ae.css.map",
-    "main.f03db1c7.js.map": "/arenga-portfolio-reactjs/static/js/main.f03db1c7.js.map",
-    "787.512dd3f2.chunk.js.map": "/arenga-portfolio-reactjs/static/js/787.512dd3f2.chunk.js.map"
+    "main.css": "/static/css/main.865473f5.css",
+    "main.js": "/static/js/main.59c33179.js",
+    "static/js/787.512dd3f2.chunk.js": "/static/js/787.512dd3f2.chunk.js",
+    "index.html": "/index.html",
+    "main.865473f5.css.map": "/static/css/main.865473f5.css.map",
+    "main.59c33179.js.map": "/static/js/main.59c33179.js.map",
+    "787.512dd3f2.chunk.js.map": "/static/js/787.512dd3f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa7d76ae.css",
-    "static/js/main.f03db1c7.js"
+    "static/css/main.865473f5.css",
+    "static/js/main.59c33179.js"
   ]
 }
