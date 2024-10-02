@@ -9,7 +9,7 @@
 		"url": "https://tharindu.dev"
 	},
 	"license": "MIT",
-	"private": false,
+	"private": true,
 	"dependencies": {
 		"@fortawesome/fontawesome-svg-core": "^6.4.0",
 		"@fortawesome/free-brands-svg-icons": "^6.4.0",
