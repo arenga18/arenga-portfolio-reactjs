@@ -21,7 +21,7 @@ const INFO = {
 	about: {
 		title: "I’m Arenga. Bachelor of Information Systems.",
 		description:
-			"I am a fresh graduate from Mercu Buana University with a degree in Information Systems. My focus is on frontend development, and I specialize in using Laravel to build dynamic and user-friendly web applications. I have developed several projects that enhanced my skills in HTML, CSS, JavaScript, and PHP frameworks. I am passionate about creating visually appealing and functional web interfaces. With a strong foundation in web development and a keen eye for detail, I am eager to contribute my expertise and creativity to deliver impactful solutions in the field of frontend development.",
+			"I am a fresh graduate from Mercu Buana University with a degree in Information Systems, focusing on frontend web development. I have strong skills in HTML, CSS, JavaScript, and modern frameworks like ReactJS, NextJS, and TailwindCSS. I also have experience using Laravel to build dynamic and interactive web applications, especially in integrating frontend components with backend systems using the MVC architecture. In various projects, including a tracer study platform and a digital waste management system, I focused on creating responsive, user-friendly interfaces that adapt across devices. I’m familiar with integrating RESTful APIs to enable dynamic content and enhance user interaction. With a keen eye for detail and a strong foundation in frontend principles, I’m eager to grow professionally and contribute to innovative development teams.",
 	},
 
 	projects: [

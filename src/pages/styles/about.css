@@ -107,6 +107,14 @@
 }
 
 @media (max-width: 600px) {
+	.about-logo {
+		top: 3vh;
+	}
+
+	.about-logo .logo {
+		width: 40px;
+	}
+
 	.about-container {
 		padding-top: 60px;
 	}

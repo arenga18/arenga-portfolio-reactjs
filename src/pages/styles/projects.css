@@ -30,4 +30,11 @@
 	.projects-project {
 		width: calc(100% / 2);
 	}
+	.projects-logo {
+		top: 3vh;
+	}
+
+	.projects-logo .logo {
+		width: 40px;
+	}
 }
