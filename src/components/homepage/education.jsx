@@ -26,7 +26,7 @@ const Education = () => {
 								Information Systems
 							</div>
 							<div className="education-duration">
-								2021 - Present
+								2021 - 2025
 							</div>
 						</div>
 
